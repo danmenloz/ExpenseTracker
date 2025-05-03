@@ -1,0 +1,24 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+D	fdccd66a3ea84a2192b25cf90f2f9441	b0cbf66a17364baa9ef9e5df810d4430	2025-05-03 20:59:36	2025-05-03 20:59:36	2025-05-03 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+D	0fdc44f659844c0abe16bd1f407e4595	198e838619204513bf3f62ec8a27e501	2025-05-03 21:50:06	2025-05-03 21:50:06	2025-05-03 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+D	ae37d7effdda48e5a11e8806fcdffcfe	e006fae6a3484f048bbacade61587c97	2025-05-03 21:50:07	2025-05-03 21:50:07	2025-05-03 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	1b1b3cdb9d604b02adcb4adf3aded7f3	f3f281b1ad69470bb28f561d610069f3	2025-05-03 21:50:28	2025-05-03 21:50:28	2025-05-03 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+===== END
